@@ -10,8 +10,6 @@ Fives sets of workflows are provided; one is a general template ("generalized") 
 
 Reference files and genome & transcriptome are prepared first. FASTQ files from SRA are downloaded and trimmed with Trim Galore. Trimmed FASTQ files are aligned with STAR Aligner to get aligned BAM files, one for genome and another with transcriptome coordinates. The transcriptome BAM file is used in Salmon quant to obtain both genome and transcriptome-level counts. All counts are then formatted into spreadsheets for downstream analysis.
 
-The other four workflows in this directory is built from this generalized workflow to process their own sets of data. 
-
 ## [1] Ryan et al. Workflow
 
 Ryan FJ, Hope CM, Masavuli MG, Lynn MA et al. Long-term perturbation of the peripheral immune system months after SARS-CoV-2 infection. BMC Med 2022 Jan 14;20(1):26. PMID: 35027067 ([GEO link](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169687))
