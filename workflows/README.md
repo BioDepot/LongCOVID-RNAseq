@@ -1,10 +1,6 @@
 # Included Salmon STAR RNA-Seq Workflows
 
-![alt text](../../doc/images/salmon_workflow.png)
-
 Workflow using STAR aligner and Salmon quantification based on the [star_salmon_short workflow from the morphic-rna-seq repo](https://github.com/BioDepot/morphic-rna-seq).
-
-Fives sets of workflows are provided; one is a general template ("generalized") and the remaining four use the template to run data processing for the four studies datasets.
 
 ## General Workflow Structure
 
