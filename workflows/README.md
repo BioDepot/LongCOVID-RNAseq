@@ -6,9 +6,9 @@ Workflow using STAR aligner and Salmon quantification based on the [star_salmon_
 
 Fives sets of workflows are provided; one is a general template ("generalized") and the remaining four use the template to run data processing for the four studies datasets.
 
-## Generalized workflow
+## General Workflow Structure
 
-The main Salmon RNA-Seq workflow to handle COVID data processing. Reference files and genome & transcriptome are prepared first. FASTQ files from SRA are downloaded and trimmed with Trim Galore. Trimmed FASTQ files are aligned with STAR Aligner to get aligned BAM files, one for genome and another with transcriptome coordinates. The transcriptome BAM file is used in Salmon quant to obtain both genome and transcriptome-level counts. All counts are then formatted into spreadsheets for downstream analysis.
+Reference files and genome & transcriptome are prepared first. FASTQ files from SRA are downloaded and trimmed with Trim Galore. Trimmed FASTQ files are aligned with STAR Aligner to get aligned BAM files, one for genome and another with transcriptome coordinates. The transcriptome BAM file is used in Salmon quant to obtain both genome and transcriptome-level counts. All counts are then formatted into spreadsheets for downstream analysis.
 
 The other four workflows in this directory is built from this generalized workflow to process their own sets of data. 
 
