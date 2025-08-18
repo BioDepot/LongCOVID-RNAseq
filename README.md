@@ -25,6 +25,10 @@ This study presents the first comprehensive molecular characterization of the co
 **Sample type**: Peripheral blood mononuclear cells (PBMC)  
 **Data availability**: NCBI GEO (**Ryan et al.**: [GSE169687](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169687), **Yin et al.**: [GSE224615](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224615), **Vlasov et al.**: [GSE185863](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185863))
 
+### Data Processing Output Dataset
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16751357.svg)](https://doi.org/10.5281/zenodo.16751357)
+
 ## Repository Structure
 
 ```
