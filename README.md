@@ -117,10 +117,6 @@ These four genes represent core mitochondrial machinery essential for cellular b
 - **Mitochondrial Support**: Restoration of cellular bioenergetics as therapeutic strategy
 - **Precision Medicine**: Patient stratification for targeted interventions
 
-#### Paradigm Shift
-**COVID-19 redefined**: From respiratory illness with systemic complications → Primary mitochondrial disease with respiratory manifestations
-
-This reframing positions mitochondrial function assessment as fundamental to COVID-19 care and opens therapeutic avenues targeting cellular bioenergetics.
 
 ## Software Requirements
 
