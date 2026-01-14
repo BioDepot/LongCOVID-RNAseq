@@ -53,7 +53,7 @@ Four critical mitochondrial components (NDUFA1, COX5A, ATP5F1, TOMM20) emerged a
 |---------|---------|---------|------------|------------|
 | Ryan et al. | Australia | n=69 + 14 controls | Healthy controls, PASC (mild/moderate/severe/critical) | Paired-end, PBMC |
 | Yin et al. | USA | n=43 | Long COVID vs. recovered (no sequelae) | Paired-end, PBMC |
-| Vlasov et al. | Russia | n=16 | Acute severe COVID-19 (survivors vs. fatalities) | Paired-end, PBMC |
+| Vlasov et al. | Russia | n=8 | Acute severe COVID-19 (survivors vs. fatalities) | Paired-end, PBMC |
 
 **Total samples**: 142 across complete disease spectrum  
 **Geographic diversity**: Three continents  
