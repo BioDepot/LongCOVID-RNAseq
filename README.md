@@ -27,7 +27,7 @@ This study integrates three independent RNA-seq datasets capturing the complete 
 | [Yin et al. (GSE224615)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224615) | Recovered without sequelae (n=13)<br>Long COVID (n=23) | United States<br>n=36 total<br>Paired-end PBMC |
 | [Vlasov et al. (GSE185863)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185863) | Acute severe survivors (n=5)<br>Fatal cases (n=3)<br>*Technical replicates: 16 samples from 8 patients* | Russia<br>n=16 total<br>Paired-end PBMC |
 
-**Total samples analyzed**: 152 across eight disease groups spanning three continents  
+**Total samples analyzed**: 152 across eight disease groups  
 
 
 ## Methods Summary
