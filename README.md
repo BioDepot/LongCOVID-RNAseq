@@ -2,8 +2,8 @@
 
 ## Integrated transcriptomic analysis reveals universal mitochondrial targeting across the COVID-19 disease spectrum
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16751357.svg)](https://doi.org/10.5281/zenodo.16751357)
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-2025.06.18.660454-b31b1b.svg)](https://doi.org/10.1101/2025.06.18.660454)
+[![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.16751357-blue)](https://doi.org/10.5281/zenodo.16751357)
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101%2F2025.06.18.660454-red)](https://doi.org/10.1101/2025.06.18.660454)
 
 ---
 
