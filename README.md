@@ -50,11 +50,16 @@ Four critical mitochondrial components (NDUFA1, COX5A, ATP5F1, TOMM20) emerged a
 
 ## Data Overview
 
-| Dataset | Origin | Samples | Conditions | Sequencing |
-|---------|---------|---------|------------|------------|
-| [Ryan et al. (GSE169687)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169687) | Australia | n=69 + 14 controls | Healthy controls, PASC (mild/moderate/severe/critical) | Paired-end, PBMC |
-| [Yin et al. (GSE224615)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224615) | USA | n=43 | Long COVID vs. recovered (no sequelae) | Paired-end, PBMC |
-| [Vlasov et al.(GSE185863)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185863) | Russia | n=16 | Acute severe COVID-19 (survivors vs. fatalities) | Paired-end, PBMC |
+This study integrates three independent RNA-seq datasets capturing the complete COVID-19 pathophysiological spectrum:
+
+| Dataset | Disease States | Notes |
+|---------|----------------|-------|
+| [Ryan et al. (GSE169687)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169687) | Healthy controls (n=14)<br>PASC mild (n=98)<br>PASC moderate (n=11)<br>PASC severe (n=14)<br>PASC critical (n=15) | Australia<br>n=152 total<br>Paired-end PBMC |
+| [Yin et al. (GSE224615)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224615) | Recovered without sequelae (n=13)<br>Long COVID (n=23) | United States<br>n=36 total<br>Paired-end PBMC |
+| [Vlasov et al. (GSE185863)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185863) | Acute severe survivors (n=5)<br>Fatal cases (n=3)<br>*Technical replicates: 16 samples from 8 patients* | Russia<br>n=16 total<br>Paired-end PBMC |
+
+**Total samples analyzed**: 152 across eight disease groups spanning three continents  
+
 
 ## Repository Structure
 
