@@ -54,7 +54,7 @@ Four critical mitochondrial components (NDUFA1, COX5A, ATP5F1, TOMM20) emerged a
 |---------|---------|---------|------------|------------|
 | [Ryan et al. (GSE169687)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169687) | Australia | n=69 + 14 controls | Healthy controls, PASC (mild/moderate/severe/critical) | Paired-end, PBMC |
 | [Yin et al. (GSE224615)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE224615) | USA | n=43 | Long COVID vs. recovered (no sequelae) | Paired-end, PBMC |
-| [Vlasov et al. (GSE185863)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185863) | Russia | n=16 | Acute severe COVID-19 (survivors vs. fatalities) | Paired-end, PBMC |
+| [Vlasov et al.(GSE185863)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185863) | Russia | n=16 | Acute severe COVID-19 (survivors vs. fatalities) | Paired-end, PBMC |
 
 ## Repository Structure
 
