@@ -44,6 +44,20 @@ This study integrates three independent RNA-seq datasets capturing the complete 
 **Statistical Thresholds**: FDR <0.05, |log2FC| >1.25  
 **Pathway Filtering**: Gene sets with 15-500 genes per pathway
 
+## Analysis Notebooks
+
+The following Jupyter notebooks reproduce the analyses from our manuscript. All notebooks are available in our [shared Google Drive folder](https://drive.google.com/drive/folders/1TNfcrKa-jA2k7-o0Q7jRlqaohT-nsT_S).
+
+### Notebooks
+
+1. [A vs B](https://drive.google.com/file/d/1ZcbTd-KjMfFiaiSoY7PvPsaWyIRK0YZy/view?usp=drive_link) - Group A vs B: Healthy controls vs. recovered patients with no PASC signs and symptoms (to identify the main post-recovery molecular signatures)
+2. [A vs CD](https://drive.google.com/file/d/1eweqIm7DBf3ijYES_N5syP4UiNfXF4EC/view?usp=drive_link) - Group A vs C+D: Healthy controls vs. mild/moderate PASC (to help us investigate the dominant gene expression pathways as patients enter the PASC phase)
+3. [A vs EF](https://drive.google.com/file/d/1hnSMBbddx8PsEEssLUecQfFwysFq4buK/view?usp=drive_link) - Group A vs E+F: Healthy controls vs. severe/critical PASC (to characterize the molecular associations differentially expressed genes with severe/critical PASC)
+4. [A vs H](https://drive.google.com/file/d/1kRo7eQ1rXL9gE5sIFnHo5p0AdUSAnSuf/view?usp=drive_link) - Group A vs H: Healthy controls vs. acute severe COVID-19 survivors (examining enriched gene pathways around resolution of severe active COVID-19)
+5. [A vs I](https://drive.google.com/file/d/1wM0kKTHjlogsqPrwtxbczWQzu8n7Z6fT/view?usp=drive_link) - Group A vs I: Healthy controls vs. acute severe COVID-19 fatalities (identifying maximal infection related inflammatory pathway activation secondary to COVID-19)
+6. [H vs I](https://drive.google.com/file/d/1uv3ZqAz1nzHCHzcDxqRj-68dW7h5kmdk/view?usp=drive_link) - Group H vs I: Acute severe survivors vs. fatalities (contrasting the dominant gene expression profiles of pathways related to fatality versus near-fatal cases)
+
+
 
 ## Software Requirements
 
