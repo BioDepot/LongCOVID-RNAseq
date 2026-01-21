@@ -59,14 +59,4 @@ The following Jupyter notebooks reproduce the analyses from our manuscript. All 
 
 
 
-## Software Requirements
 
-### Core Dependencies
-- **R** (≥4.1.0)
-  - edgeR (≥3.36.0)
-  - DESeq2 (≥1.34.0)
-- **Bwb containerized dependencies**
-  - STAR (v2.7.11a)
-  - Salmon (v1.10.1)
-  - Trim Galore (v0.6.10)
-  - SRA Toolkit (≥3.0.0)
