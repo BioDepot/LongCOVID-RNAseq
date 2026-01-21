@@ -55,7 +55,7 @@ The following Jupyter notebooks reproduce the analyses from our manuscript. All 
 3. [A vs EF](https://github.com/BioDepot/LongCOVID-RNAseq/blob/main/notebooks/Gene_Counts_A_vs_EF.ipynb) - Group A vs E+F: Healthy controls vs. severe/critical PASC (to characterize the molecular associations differentially expressed genes with severe/critical PASC)
 4. [A vs H](https://github.com/BioDepot/LongCOVID-RNAseq/blob/main/notebooks/Gene_Counts_A_vs_H.ipynb) - Group A vs H: Healthy controls vs. acute severe COVID-19 survivors (examining enriched gene pathways around resolution of severe active COVID-19)
 5. [A vs I](https://github.com/BioDepot/LongCOVID-RNAseq/blob/main/notebooks/Gene_Counts_A_vs_I.ipynb) - Group A vs I: Healthy controls vs. acute severe COVID-19 fatalities (identifying maximal infection related inflammatory pathway activation secondary to COVID-19)
-6. [H vs I](https://drive.google.com/file/d/1uv3ZqAz1nzHCHzcDxqRj-68dW7h5kmdk/view?usp=drive_link) - Group H vs I: Acute severe survivors vs. fatalities (contrasting the dominant gene expression profiles of pathways related to fatality versus near-fatal cases)
+6. [H vs I](https://github.com/BioDepot/LongCOVID-RNAseq/blob/main/notebooks/Gene_Counts_H_vs_I.ipynb) - Group H vs I: Acute severe survivors vs. fatalities (contrasting the dominant gene expression profiles of pathways related to fatality versus near-fatal cases)
 
 
 
