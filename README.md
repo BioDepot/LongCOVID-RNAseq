@@ -64,9 +64,8 @@ The following Jupyter notebooks reproduce the analyses from our manuscript. All 
 ### Core Dependencies
 - **R** (≥4.1.0)
   - edgeR (≥3.36.0)
-  - fgsea (≥1.20.0)
   - DESeq2 (≥1.34.0)
-- **Command Line Tools**
+- **Bwb containerized dependencies**
   - STAR (v2.7.11a)
   - Salmon (v1.10.1)
   - Trim Galore (v0.6.10)
