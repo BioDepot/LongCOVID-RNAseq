@@ -38,17 +38,19 @@ This study integrates three independent RNA-seq datasets capturing the complete 
 2. **Alignment**: STAR (v2.7.11a) to GRCh38 reference genome (Ensembl release 110)
 3. **Quantification**: Salmon (v1.10.1) with transcript-level quantification
 4. **Differential Expression**: edgeR with FDR <0.05, log2FC >1.25
-5. **Pathway Analysis**: GSEA using MSigDB Hallmark gene sets (fgsea R package)
+5. **Pathway Analysis**: Gene Set Enrichment Analysis (GSEA) using the Enrichr web portal at https://maayanlab.cloud/Enrichr/# and MSigDB Hallmark gene sets   
 
 **Reference**: GRCh38 primary assembly, GENCODE annotation release 44  
 **Statistical Thresholds**: FDR <0.05, |log2FC| >1.25  
 **Pathway Filtering**: Gene sets with 15-500 genes per pathway
 
+## Uniform Data Processing
+
+Our containerized workflows (with source code) for uniform RNA-seq data processing are available in [workflows](workflows/). 
+
 ## Analysis Notebooks
 
-The following Jupyter notebooks reproduce the analyses from our manuscript. All notebooks are available in our [shared Google Drive folder](https://drive.google.com/drive/folders/1TNfcrKa-jA2k7-o0Q7jRlqaohT-nsT_S).
-
-### Notebooks
+The following Jupyter notebooks took the uniformly processed counts table as input, and performed differential expression analysis.
 
 1. [A vs B](https://github.com/BioDepot/LongCOVID-RNAseq/blob/main/notebooks/Gene_Counts_A_vs_B(5).ipynb) - Group A vs B: Healthy controls vs. recovered patients with no PASC signs and symptoms (to identify the main post-recovery molecular signatures)
 2. [A vs CD](https://github.com/BioDepot/LongCOVID-RNAseq/blob/main/notebooks/Gene_Counts_A_vs_CD.ipynb) - Group A vs C+D: Healthy controls vs. mild/moderate PASC (to help us investigate the dominant gene expression pathways as patients enter the PASC phase)
