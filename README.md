@@ -2,8 +2,9 @@
 
 ## Integrated transcriptomic analysis reveals universal mitochondrial targeting across the COVID-19 disease spectrum
 
-[![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.16751357-blue)](https://doi.org/10.5281/zenodo.16751357)
-[![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101%2F2025.06.18.660454-red)](https://doi.org/10.1101/2025.06.18.660454)
+Early version of preprint: [![bioRxiv](https://img.shields.io/badge/bioRxiv-10.1101%2F2025.06.18.660454-red)](https://doi.org/10.1101/2025.06.18.660454)
+
+Processed data: [![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.16751357-blue)](https://doi.org/10.5281/zenodo.16751357)
 
 ---
 
@@ -32,6 +33,8 @@ This study integrates three independent RNA-seq datasets capturing the complete 
 
 ## Methods Summary
 
+We applied the following analytical pipeline to uniformly process RNA-seq datasets from different studies/labs. 
+
 **Pipeline Overview**: Containerized, standardized workflow ensuring reproducible cross-dataset integration
 
 1. **Quality Control**: Trim Galore (v0.6.10) for adapter trimming
@@ -46,7 +49,7 @@ This study integrates three independent RNA-seq datasets capturing the complete 
 
 ## Uniform Data Processing
 
-Our containerized workflows (with source code) for uniform RNA-seq data processing are available in [workflows](workflows/). 
+Our containerized workflows (with source code) for uniform RNA-seq data processing are available in [workflows](workflows/). Our uniformly processed data are available from Zenodo with DOI 10.5281/zenodo.16751356. [![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.16751357-blue)](https://doi.org/10.5281/zenodo.16751357)
 
 ## Analysis Notebooks
 
